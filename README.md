@@ -1,2 +1,2 @@
 # ScientificComputing
-Assignments from CSC332 Operating Systems, CCNY Spring 2018
+Assignments from CSC301 Scientific Computing, CCNY Spring 2018
